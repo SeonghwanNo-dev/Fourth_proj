@@ -14,3 +14,5 @@
 
 -   **Build Tool:** Maven
 
+-   **View:** Thymeleaf
+
